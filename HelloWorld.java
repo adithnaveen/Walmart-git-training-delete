@@ -3,7 +3,7 @@ package com.naveen;
 
 public class HelloWorld {
 	public static void main(String [] args) {
-		System.out.println("Hello");
+		add(10,20);		
 	}
 
 
